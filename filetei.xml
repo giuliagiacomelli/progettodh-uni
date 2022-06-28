@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Pitture Italiane del Rianscimento. Catalogo dei principali artisti e delle loro opere con un indice dei luoghi.</title>
+<respStmt>
+	<author ref="#BB">Berenson, Bernhard</author>
+	<respStmt xml:id="GG">
+<resp>Codifica TEI</resp>
+<name>Giulia Giacomelli</name>
+</respStmt>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>1923</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>Università degli Studi di Bologna, Fondazione Federico Zeri</publisher>
+<address>
+<addrLine>Bologna</addrLine>
+</address>
+<availability>
+<licence>
+<p>https://creativecommons.org/licenses/by-nc-sa/4.0/</p>
+</licence>
+</availability>
+</publicationStmt>
+
+<sourceDesc> 
+ <biblStruct  xml:lang =" it "> 
+  <monogr> 
+   <author> Berenson, Bernhard </author> 
+   <titlePart type="main"> Pittori Italiani del Rinascimento </titlePart> 
+   <titlePart  type ="sub"> Catalogo dei principali artisti e delle loro opere con un indice dei luoghi </titlePart> 
+   <imprint> 
+    <pubPlace> Milano </pubPlace> 
+    <publisher> Federico Hoepli </publisher> 
+    <date  when =" 1923 "> 1923 </date> 
+   </imprint> 
+   <settlement>Bologna</settlement>
+<repository>Fondazione Federico Zeri</repository>
+<idno>B 10790</idno>
+<collection>F BERENSON 09 .01</collection>
+  </monogr> 
+ </biblStruct> 
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<front>
+ 
+ <div  type =" preface "> 
+  <head> Prefazione </head> 
+  <p> Gli Elenchi che costituiscono questo volume si discostano in vari aspetti dagli Elenchi che si trovavano in appendice ai quattro libri dei miei Pittori del Rinascimento Italiano. In questi nuovi Elenchi, tutte le scuole son riunite, e gli artisti si succedono in ordine alfabetico; sono inclusi molti più artisti e dipinti che io non conoscessi trentacinque anni sono; e il principio informatore, anch’esso, è cambiato. Nelle edizioni precedenti, gli Elenchi delle attribuzioni, che io rivedevo di tanto in tanto, si basavano uniformemente sul criterio dell’indubitabilità della mano che aveva eseguito un dipinto, anche se fosse da temere che la mente dell’artista aveva vacillato. In base a tale assioma, l’esecuzione materiale tendeva quasi ad assumere peso e autorità maggiori dello sforzo creativo. La questione suprema era che un dipinto fosse autografo. Se non lo era, esso perdeva ogni interesse; a meno non vi si rivelasse la mano d’un altro artista, nel ruolo delle cui opere veniva allora, senz'altro, catalogato. Il nucleo d’una personalità artistica si restringeva, per conseguenza, a quelle opere nelle quali era assoluta unità di mano e di mente. E così la mente e la mano avessero sempre operato in perfetta unione ! E così l’artista avesse sempre rifiutato a valersi del sostituto d’un se stesso deteriore, o di scolari ed aiuti! Siffatto rigorismo agì forse, opportunamente, come una disciplina necessaria e salubre. Ci insegnò a scendere nell’intimo d'una personalità, prima di accingerci a tracciarne il limite; e ci famigliarizzò con i modi caratteristici d’un artista, da abilitarci a riconoscerlo anche nei suoi momenti meno geniali.Ma fortificati ormai da questa dimestichezza nelle sue manifestazioni più alte, possiamo permetterci d allentare i freni: includendo tutte le opere nelle quali si mostri distintamente l’intento creativo; sieno esse autografe, in tutto o in parte; o eseguite nello studio, sotto la direzione dell’artista stesso; o sieno soltanto copie di opere perdute. Limitare il proprio interesse ai prodotti giudicati perfetti, sembra ormai un vano preziosismo estetico. Chi dedica agli studi d’arte tutta la propria vita, e non solo le domeniche ed altre feste e gli sparsi momenti di svago, non può appagarsi d’un atteggiamento d’intransigenza giovanile. Una considerazione più matura si riporta sullo spirito dell’artista non meno che sulla sua mano. E in una personalità artistica si verrà ad includere non soltanto ciò che un maestro produsse nei momenti migliori; ma tutto quanto egli concepì nei termini della propria arte; non importa come inadeguata, insoddisfacente, sia la forma che l’idea può aver ricevuto. Sembrerà dunque che la lunga esperienza m’abbia retrocesso ai giorni lontani nei quali tutto ciò che avesse una cert’aria di Leonardo o di Raffaello produceva emozioni proporzionate a tali nomi, nell'animo del riguardante. « A che scopo », si chiederà, « essersi tanto affaticati a ribattezzare dipinti, a sceverare gli originali dalle copie, e i maestri dagli aiuti, se, oggi, davanti ad opere inferiori, siamo invitati ad estasiarci quasi fossero di Raffaello e di Leonardo ? Che ne è stato di quella famosa pietra di paragone: il concetto di Qualità, quando dobbiamo ammettere che anche la mano del grande artista può fallare; che i segni del suo genio traspaiono in opere d’aiuti e seguaci; © perfino vengono valorizzate le modeste perpetrazioni di copisti che il maestro non lo conobbero neanche da lontano ? Rieccoci nei vecchi pelaghi inesplorati; e senza più un severo concetto di qualità per guidarci; ma con appena quegli abusati e approssimativi criteri della invenzione, dell’idea e dell’impressione, che furono la causa di tanti disastri. E rieccoli tornati a braccetto, il vero conoscitore e il dilettante più sprovveduto ». Proprio così! Ed insieme essi acclamano il "Maestro" come diversamente ! Sia commosso qua; quanto si vuole il dilettante, da un’opera d’arte, son sempre le idee letterarie associative, romantiche, quelle che fanno presa su lui. Mentre il conoscitore ha imparato a distinguere fra la poesia che una pittura può suggerire e le specifiche qualità della pittura, e reagisce in modo del tutto differente. Nei miei scritti sui Pittori della Rinascenza Italiana, cercai di distinguere fra elementi Illustrativi ed elementi Decorativi, nelle opere d’arte; ed esagerai, forse, l’importanza di questi ultimi, perché m'è capitato di divertirmi, e preoccuparmi, vedendo poi tanti altri scrittori tener conto soltanto degli elementi Decorativi, i quali, per vivificanti che sieno, non funzionano appieno che al servizio di grandi ideali umani. L'appassionato d’arte imparò a distinguere il tocco individuale del maestro che egli sta studiando, e sa penetrare l’intento creativo anche in opere, di questo artista, meno felici. Né egli si ferma alle suggestioni intellettuali, che derivano dai valori Illustrativi. La sua immaginazione critica sa ricreare l'opera figurativa nella sua integrità, e proprio nei precisi valori Decorativi nei quali l’avrebbe concretata il maestro. Chi vorrà sostenere che questi non sieno genuini piaceri estetici ? Per tali ragioni, negli Elenchi seguenti, oltre alle pitture che gli artisti eseguirono con più o meno larga partecipazione di aiuti, ho incluso le opere che nelle botteghe furon condotte su disegno dei maestri; e le copie altresì, quando si potesse ritenere che esse trascrivevano fedelmente qualche lavoro perduto.</p> 
+ </div> 
+</front>
+<physDesc>
+<objectDesc form="Liste">
+<supportDesc>
+<support>
+<material>Chart</material>
+</support>
+<extent>
+<measure type="pageDimensions">15,5 x 20,3</measure>
+</extent>
+<condition>
+<p>La pagina presa in esame (pag.11) si presenta sottoforma di lista in una colonna per pagina. Sono assenti illustrazioni.</p>
+<p>La mise en page della pagina in esame si caratterizza, come le altre del libro, per segni di colore rosso.</p>
+</condition>
+</supportDesc>
+</objectDesc>
+</physDesc>
+<body>
+	<titlePart>
+		<persName ref="http://vocab.getty.edu/page/ulan/500015184">PIETRO PAOLO AGAPITI</persName>
+	</titlePart>
+	<p>Marchigiano. <date from="1470" to="1540"><abbr>c.</abbr> 1470-1540.</date> Seguace di <persName ref="http://vocab.getty.edu/page/ulan/500012627">Cima da Conegliano</persName>: influenzato da <persName ref="http://vocab.getty.edu/page/ulan/500099193">Signorelli</persName> e dagli Umbri.</p>
+
+<list>
+	<div type="item" n="1"><placeName ref="http://vocab.getty.edu/page/tgn/7003127">Bologna.</placeName> <num value="209">209</num> . Trittico: Madonna col <persName>Battista</persName> e <persName ref="http://viaf.org/viaf/66806872/#Augustine,_of_Hippo,_Saint,_354-430">S. Agostino</persName>; Incoronazione nella lunetta.
+<placeName type="church">S. Colombano.</placeName>Madonna e due Santi (?).</div>
+
+<div type="item" n="2">
+<placeName ref="http://vocab.getty.edu/page/tgn/7004023">Cingoli (Macerata).</placeName> <placeName type="church">S. ESUPERANZIO.</placeName> Affresco: Madonna. col Santo Patrono e <persName ref="http://viaf.org/viaf/87941860">Giacomo della Marca.</persName> <date>1503.</date>
+</div>
+
+<div type="item" n="3">
+<placeName ref=" http://vocab.getty.edu/page/tgn/7004864">Imola</placeName>(Dintorni). <placeName ref="http://vocab.getty.edu/page/tgn/7048171">RIVIERA DI CASALFIUMANESE</placeName>, CHIESA PARROCCHIALE. Affresco nell'<surface ref="https://thes.bncf.firenze.sbn.it/termine.php?id=56649">abside</surface>: Visitazione e Santi (r.).
+</div>
+
+<div type="item" n="4">
+<placeName ref="http://vocab.getty.edu/page/tgn/7004002">Iesi.</placeName> Madonna col <persName>Battista</persName> e <placeName ref="http://viaf.org/viaf/51659098">S. Antonio da Padova.</placeName> <date>1528.</date> Madonna con <persName ref="http://viaf.org/viaf/87832561">S. Francesco</persName> e <placeName ref="http://viaf.org/viaf/51659098">S. Antonio da Padova.</placeName> <date>1531.</date> Lunetta: <persName ref="http://viaf.org/viaf/87832561S"> Francesco</persName> che riceve le Stigmate.
+Predella: Natività, Adorazione dei Magi, <persName ref="http://viaf.org/viaf/95147024">S. Girolamo</persName>, <persName type="saint-group">S.S. Sebastiano e Rocco</persName> . <persName ref="http://viaf.org/viaf/87832561">S. Francesco</persName>, <persName ref="http://viaf.org/viaf/107024917">S. Antonio Abate</persName> e <persname ref="http://viaf.org/viaf/12349035">S. Bernardino.</persname> e <persName ref="http://viaf.org/viaf/95147024">S. Girolamo.</persName>
+</div>
+
+<div type="item" n="5">
+<placeName ref="http://vocab.getty.edu/page/tgn/7002994">Padova.</placeName> <num value="426">426.</num> Madonna con i S.S. Pietro e Sebastiano. <date>1497.</date>
+</div>
+
+<div type="item" n="6">
+<placeName ref="http://vocab.getty.edu/page/tgn/7004009">Sassoferrato.</placeName> <placeName type="church">S. croce.</placeName> Polittico: i santi <persName ref="http://viaf.org/viaf/100179656">Benedetto </persName>, <persname type="saint">Mauro</persname>,  <persname type="saint">Placido</persname>,  <persname type="saint">Pietro</persname>,  <persname type="saint">Damiano</persname> e  <persName type="saint">Scolastica</persName>, con benedettini in adorazione; Predella <abbr>ecc.</abbr> <date>1524.</date> <placeName type="church">S. FORTUNATO.</placeName> Madonna col  <persname type="saint">Battista</persname>; e <persName type="saint">S. Fortunato</persName>. <date from="1519" to="1521">1519-21</date> . <placeName type="church">S. MARIA DEL PIANO.</placeName> Natività. <date>1511.</date> Madonna con <persName ref="http://viaf.org/viaf/90633132">S. Caterina</persName> e il Battista; Predella. <date>1518</date> . <placeName type="church">S. PIETRO.</placeName> Trittico: Madonna con  <persname type="saint">S. Giuseppe</persname> e <persName ref="http://viaf.org/viaf/90633132">S. Caterina</persName>; Predella ecc.
+</div>
+
+<div type="item" n="7">
+<placeName ref="http://vocab.getty.edu/page/tgn/7018159">Venezia</placeName>.<placeName type="church">S. MARIA DELLA VISITAZIONE</placeName> Pitture del soffitto. 
+</div>
+
+<div type="item" n="8">
+<placeName ref="http://vocab.getty.edu/page/tgn/7015558">Zagabria</placeName>.51. Disputa di <persName ref="http://viaf.org/viaf/90633132">S. Caterina</persName>.
+</div>
+
+<div type="item" n="9">
+<persName ref="http://vocab.getty.edu/page/ulan/500021601">AGNOLO GADDI</persName>(Vedi GADDI)
+</div>
+
+<div type="item" n="10">
+<persName ref="http://vocab.getty.edu/page/ulan/500770597">AGOSTINO DA LODI</persName>(Vedi PSEUDO-BOCCACCINO)
+</div>
+</list>
+</body>
+<back>
+<div  type =" colophon ">
+<p>Finito di stampare il 28 febbraio 1936, A. XIV, presso le arti grafiche Panetti e Petrello in Spoleto</p>
+</div >
+</back>
+</text>
+</TEI>

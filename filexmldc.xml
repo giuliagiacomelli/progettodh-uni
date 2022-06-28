@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<attribution:metadata xmlns:attribution="#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xml:id="workofart">
+<!--  identificativo univoco -->
+<author xml:id="workofart-pietropaoloagabiti">
+<image xml:id="workofart-pietropaoloagabiti-01">
+<!-- il titolo dell'opera è ripreso dal libro in cui essa è citata e di cui io faccio uso per il mio progetto -->
+<dc:title xsi:type="attribution:viaf" attribution:ref="https://viaf.org/viaf/7166165272235210690004/#Berenson,_Bernard_(1865-1959)._|_Italian_painters_of_the_Renaissance_|_(w%C5%82.)">Madonna con Bambino in trono tra i Santi Pietro e Sebastiano</dc:title>
+<!-- resposabile intellettuale dell'opera è l'ente che possiede l'opera -->
+<dc:creator xsi:type="attribution:viaf" attribution:ref="https://viaf.org/viaf/148120298/#Museo_civico_(Padova)">Musei civici di Padova</dc:creator>
+<!-- data in cui è stato realizzato il formato per il web -->
+<dcterms:date xsi:type="dcterms:W3CDTF"/>
+<dc:subject xsi:type="attribution:iconclass" attribution:ref="http://www.iccd.beniculturali.it/getFile.php?id=185">Madonna con Bambino in trono tra i Santi Pietro e Sebastiano</dc:subject>
+<!-- pittura -->
+<dc:type xsi:type="dcterms:UDC">535.6</dc:type>
+<dc:subject>storia dell'arte, iconografia sacra, Bernard Berenson, Federico Zeri</dc:subject>
+<dc:description>Dipinto attribuito da Bernard Berenson a Pietro Paolo Agapiti in cui vi è raffigurata la Madonna in trono con il bambino e attorniata da San Pietro e San Sebastiano.</dc:description>
+<!-- chi pubblica il mio item è la fondazione zeri -->
+<dc:publisher>https://fondazionezeri.unibo.it/it</dc:publisher>
+<dc:format xsi:type="dcterms:IMT">image/png</dc:format>
+<!-- La fonte della mio item è il libro di Berenson -->
+<dc:bibliographicCitation xsi:type="dcterms:URI">https://viaf.org/viaf/7166165272235210690004/#Berenson,_Bernard_(1865-1959)._|_Italian_painters_of_the_Renaissance_|_(w%C5%82.)</dc:bibliographicCitation>
+<dc:identifier xsi:type="dcterms:URI">http://arte.cini.it/Opere/363561</dc:identifier>
+<!-- La risorsa correlata a cui faccio riferimento è la fotografia dell'opera d'arte di cui sto descrivendo la riproduzione digitale  -->
+<dc:relation xsi:type="dcterms:URI">http://catalogo.fondazionezeri.unibo.it/scheda/fotografia/61729/Musei%20Civici%20agli%20Eremitani%20di%20Padova%2C%20Gabinetto%20fotografico%20-%20Agabiti%20Pietro%20Paolo%20-%20sec.%20XV%20-%20Madonna%20con%20Bambino%20in%20trono%20tra%20san%20Pietro%20e%20san%20Sebastiano%20-%20insieme</dc:relation>
+<dc:coverage xsi:type="dcterms:TGN" ref="http://vocab.getty.edu/page/tgn/7002994">Padova</dc:coverage>
+<dc:rights>https://creativecommons.org/licenses/by-nc-sa/4.0/</dc:rights>
+<dc:source>https://www.dublincore.org/specifications/dublin-core/dcmi-terms/</dc:source>
+</image>
+</author>
+</attribution:metadata>
