@@ -29,11 +29,6 @@ h4 {
 	background-color: #8a8a5c;
 }
 
-.btn-outline-success:hover {
-	background-color: rgb(112, 219, 112);
-}
-
-
 a, btn-link {
   color: black;
   background-color: transparent;
