@@ -19,6 +19,14 @@ h4 {
 .didascalia1 {
 	background-color: #8a8a5c;
 }
+.offcanvas-title {
+	color:black;
+	font-size: 1.20rem;
+}
+.bio {
+	color:black;
+	text-align: justify;
+}
 a, btn-link {
   color: black;
   background-color: transparent;
