@@ -98,6 +98,14 @@ h3 {
 	margin-left: 100px;
 }
 
+.nav-link:hover {
+	color:#e0e0d1 !important;
+}
+
+#mail:hover {
+color:blue !important;
+}
+
 footer {
 	background: black;
 	height: 350px;
@@ -133,9 +141,6 @@ h6 {
 hr {
 	margin-left: 3rem;
 	margin-right:3rem;
-}
-
-	
 }
 
 
